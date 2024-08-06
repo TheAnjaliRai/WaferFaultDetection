@@ -25,4 +25,5 @@ xgboost==1.6.2
 neuro-mf==0.0.5
 boto3==1.26.105
 Werkzeug>=2.0.0
+ai-core-sdk[aicore-content]
 -e .
