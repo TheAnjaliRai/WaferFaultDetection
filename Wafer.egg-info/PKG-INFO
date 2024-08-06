@@ -3,3 +3,4 @@ Name: Wafer
 Version: 0.0.1
 Author: anjali
 Author-email: an.anjalirai98@gmail.com
+Requires-Dist: Cython>=0.29.30

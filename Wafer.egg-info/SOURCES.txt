@@ -3,6 +3,7 @@ setup.py
 Wafer.egg-info/PKG-INFO
 Wafer.egg-info/SOURCES.txt
 Wafer.egg-info/dependency_links.txt
+Wafer.egg-info/requires.txt
 Wafer.egg-info/top_level.txt
 src/__init__.py
 src/exception.py
