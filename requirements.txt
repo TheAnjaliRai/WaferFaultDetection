@@ -1,4 +1,4 @@
-pip
+pip==24.2
 setuptools
 wheel==0.36.2
 Cython
