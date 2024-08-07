@@ -1,6 +1,7 @@
 cython
 PyYAML
 wheel
+gunicorn
 aiofiles
 dill
 dnspython
