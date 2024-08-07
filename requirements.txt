@@ -1,6 +1,7 @@
+setuptools
+wheel
 Cython
 PyYAML
-wheel
 gunicorn
 aiofiles
 dill
